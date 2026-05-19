@@ -1,0 +1,11 @@
+node_modules
+.npm-cache
+dist
+docx_render_check
+.env
+outputs/*
+!outputs/.gitkeep
+data/*
+!data/.gitkeep
+.DS_Store
+npm-debug.log*
